@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-frontend",
   "buildCommand": "npm run build",
-  "outputLocation": "dist",
+  "appArtifactLocation": "dist",
   "apiLocation": "",
   "appBuildCommand": "npm run build",
   "appLocation": "/",
