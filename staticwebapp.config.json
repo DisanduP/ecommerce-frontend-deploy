@@ -5,6 +5,9 @@
   "apiLocation": "",
   "appBuildCommand": "npm run build",
   "appLocation": "/",
+  "platform": {
+    "nodeVersion": "20"
+  },
   "routes": [
     {
       "route": "/*",
